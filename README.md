@@ -8,4 +8,4 @@ Topics
 5. Elastics network loadbalance (NLB)
 6. Elastics application loadbalance (ALB)
 
-![alt tag](https://github.com/aibaeiba1/workshop-aws/pic/vpc.png)
+![alt tag](https://github.com/aibaeiba1/workshop-aws/blob/main/pic/vpc.png)
