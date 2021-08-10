@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo yum -y update
+sudo yum install -y amazon-linux-extras
 sudo amazon-linux-extras -y install nginx1
 sudo mkdir -p /usr/share/nginx/html/web1
 sudo mkdir -p /usr/share/nginx/html/web2
